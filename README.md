@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark, an energetic full stack web developer</h1>
+<h1 align="center">Hi 👋, I'm Mark, a fun and energetic full stack web developer</h1>
 <h3 align="center">I started working in the tech industry 9 years ago. That's what gave me the itch to learn how to code, and I haven't looked back since. If I'm not writing some totally awesome code, then I'm writing some totally awesome novels and children's stories. I spend whatever free time I have (free time??) hanging out with my family outside.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markavella2" alt="markavella2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/avellamark" target="blank"><img src="https://img.shields.io/twitter/follow/avellamark?logo=twitter&style=for-the-badge" alt="avellamark" /></a> </p>
 
@@ -19,7 +17,7 @@
 
 - 📄Resume's are important - here is a good one: [https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing](https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing)
 
-- ⚡ Fun fact **I met my wife on a volleyball court and we play competitive volleyball together.**
+- ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markavella2&show_icons=true&locale=en" alt="markavella2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markavella2&" alt="markavella2" /></p>
-
